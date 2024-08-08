@@ -65,6 +65,8 @@ For the project, the interaction aware motion model was used which consisted of 
 ### Result
 <img src="https://user-images.githubusercontent.com/108230926/218286185-d04cb3f0-ca4c-4567-a026-ec01bc7cdeff.png" width="450" height="300">   
 
+<img src="https://raw.githubusercontent.com/mangeshvir/Motion-Prediction-using-deep-learning/main/Results.png">
+
 - The validation (test) dataset line is stable after 40 epochs
 - The prediction of test dataset (unseen) will be close to accurate
   
