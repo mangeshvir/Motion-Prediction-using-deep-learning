@@ -5,7 +5,7 @@
 
 It aims to forecast the upcoming headings, velocities, and positions of moving objects in the surrounding environment over a limited time. The expected trajectories also help us to ensure that the ego vehicle's planned path won't collide with any other objects in the future.
 
-<img src="https://user-images.githubusercontent.com/108230926/218285471-c275b267-68a5-4a00-b850-bf425a499c42.png" width="450" height="350">
+<img src="[https://user-images.githubusercontent.com/108230926/218285471-c275b267-68a5-4a00-b850-bf425a499c42.png](https://github.com/mangeshvir/Motion-Prediction-using-deep-learning/blob/main/scalingYouTube.png?raw=true)" width="450" height="350">
 
 --> The goal of this project is to forecast the trajectory of an ego vehicle depending on the objects in its immediate environment such as cars, pedestrians, motorbikes or bicycles.
 
