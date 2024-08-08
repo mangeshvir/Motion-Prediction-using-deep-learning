@@ -51,7 +51,7 @@ For the project, the interaction aware motion model was used which consisted of 
 
 ### Our Approach
 
-<img width="846" alt="image" src="https://user-images.githubusercontent.com/108230926/218285741-4f51c613-6072-4b87-813e-0f70c6e50c68.png">
+<img width="846" alt="image" src="https://raw.githubusercontent.com/mangeshvir/Motion-Prediction-using-deep-learning/main/Methodology.png">
 
 
 ### Our Neural Network Model Architecture
