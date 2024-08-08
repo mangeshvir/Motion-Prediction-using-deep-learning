@@ -59,11 +59,17 @@ For the project, the interaction aware motion model was used which consisted of 
 ### Our Neural Network Model Architecture
 <img width="834" alt="image" src="https://user-images.githubusercontent.com/108230926/218285758-e97581c7-23b6-452b-8682-87788ea42d19.png">
 
+### Hyperparameters
+<img width="844" alt="image" src="https://raw.githubusercontent.com/mangeshvir/Motion-Prediction-using-deep-learning/main/Hyperparameters.png">
+
 ### Result
 <img src="https://user-images.githubusercontent.com/108230926/218286185-d04cb3f0-ca4c-4567-a026-ec01bc7cdeff.png" width="450" height="300">   
 
 - The validation (test) dataset line is stable after 40 epochs
 - The prediction of test dataset (unseen) will be close to accurate
+  
+--> Although the constant acceleration model exhibits minimal error, its application in real-world scenarios is deemed impractical due to oversimplified assumptions. 
+In contrast, **Long Short-Term Memory (LSTM)** networks emerge as the most pragmatic choice for predictive modeling, given their capacity to incorporate and analyze intricate time-series data patterns.
 
 --> The average displacement error (average Euclidean distance between the position prediction and ground truth) is found to be 0.9 m
 
@@ -71,6 +77,8 @@ For the project, the interaction aware motion model was used which consisted of 
 
 ### Future Scope
 
-- Using ConvLSTM as it captures the spatio temporal features simultaneously throughout the model.
-- Graph neural networks (GNNs) show the promising results using attention mechanism.
-- One aspect that can be considered while collecting data is the usage of vehicle auditory data like horn and other visual data like signalling lights for inferring the future behavior of the vehicle.
+- Vehicular communication (V2V, V2X, V2I)
+- Improved Prediction Accuracy
+- Real-time Applications
+- Behavior Prediction and Human Intent Recognition
+- Can use Kalman Filter for motion prediction
