@@ -35,6 +35,8 @@ It aims to forecast the upcoming headings, velocities, and positions of moving o
 
 For the project, the interaction aware motion model was used which consisted of neural network architecture.
 
+<!-- This is a comment in a Markdown file 
+
 ### Neural Network-Based Motion Prediction
 
 - **Data Normalization**
@@ -47,9 +49,9 @@ For the project, the interaction aware motion model was used which consisted of 
 <img width="837" alt="image" src="https://user-images.githubusercontent.com/108230926/218285643-1abbed58-6615-4ecc-8703-9d42107b2a81.png">
 
 - **Testing the model using test data**
-<img width="844" alt="image" src="https://user-images.githubusercontent.com/108230926/218285694-4f0f8c4c-796a-4bb6-b596-5359f51219a3.png">
+<img width="844" alt="image" src="https://user-images.githubusercontent.com/108230926/218285694-4f0f8c4c-796a-4bb6-b596-5359f51219a3.png"> -->
 
-### Our Approach
+### Methodology
 
 <img width="846" alt="image" src="https://raw.githubusercontent.com/mangeshvir/Motion-Prediction-using-deep-learning/main/Methodology.png">
 
